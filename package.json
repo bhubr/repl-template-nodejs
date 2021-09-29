@@ -1,0 +1,9 @@
+{
+  "name": "javascript-exercises",
+  "scripts": {
+    "test": "node test/index"
+  },
+  "devDependencies": {
+    "kludjs": "1.0.0"
+  }
+}
